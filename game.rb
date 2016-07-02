@@ -26,7 +26,7 @@ def show_player_stats
 end
 
 def welcome_to_game
-  puts "Hi, welcome to the game!"
+  puts "Hi, welcome to the LONDON!"
   show_player_stats
 end
 
